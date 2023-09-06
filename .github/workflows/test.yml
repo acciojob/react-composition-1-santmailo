@@ -1,7 +1,6 @@
 name: Acciojob Tests
 
-    on:
-     push:
+    on: push:
         branches: [ "main","master" ]
     
     jobs:
