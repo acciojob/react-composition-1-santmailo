@@ -4,7 +4,6 @@ const Tabs = ({ tabs }) => {
 
     return (
         <div className="tabs">
-            <h1>React Composition 1</h1>
         <ul className="tab-list">
             {tabs.map((tab, index) => {
             return (
